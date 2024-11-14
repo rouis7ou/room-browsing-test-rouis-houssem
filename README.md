@@ -89,7 +89,7 @@ Create a simple room browsing application where users can view a list of rooms. 
 
 #### Deliverables
 
-1. **GitHub Repository**: Push the project to a GitHub repository and provide a link for review.
+1. **GitHub Repository**: Push the project to a GitHub repository and provide a link for review, or use a fork from this repo and PR us.
 2. **ReadMe Documentation**: Include setup instructions, a description of the project, and a note on your testing approach and coverage.
 
 #### Evaluation Criteria
